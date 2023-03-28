@@ -41,10 +41,11 @@ THEN the password is either displayed in an alert or written to the page
 
 The website must look like this in order to accomplish the Acceptance Criteria and as well prompts must appear at the top considering what we need for the password being generated:
 
-![challenge03-generatepassword](https://user-Images.githubusercontent.com/challenge03-generatepassword.png)
-.images/challenge03-generatepassword.png
-.images/challenge03-promtps.png
-.images/challenge03-password.png
+![challenge03-generatepassword](https://user-images.githubusercontent.com/126216168/228127762-868eeadd-4a08-4a5b-9e14-86722f6b09dc.png)
+
+![challenge03-prompts](https://user-images.githubusercontent.com/126216168/228127772-71da8f66-ef74-43b8-9e00-79a5f76bd1bb.png)
+
+![challenge03-password](https://user-images.githubusercontent.com/126216168/228127779-8dcc07b9-48b9-4345-9fc6-cfe547587d21.png)
 
 
 ## Credits
